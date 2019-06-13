@@ -1,0 +1,101 @@
+{
+    "id": "79153574-2bad-4973-ab05-e6bbbf021af5",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "o_ship_parent",
+    "eventList": [
+        {
+            "id": "88618aee-bc66-4dc0-a58e-99ab7c2e98db",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 3,
+            "m_owner": "79153574-2bad-4973-ab05-e6bbbf021af5"
+        },
+        {
+            "id": "a43c9432-838d-4031-af5d-1ab3a54774c5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
+            "m_owner": "79153574-2bad-4973-ab05-e6bbbf021af5"
+        },
+        {
+            "id": "f43896c8-7f79-4cc9-9bf0-1725d7905024",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "79153574-2bad-4973-ab05-e6bbbf021af5",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "79153574-2bad-4973-ab05-e6bbbf021af5"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "70ff1245-72af-4ae5-bc81-9c8f8a7308b1",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "armor",
+            "varType": 1
+        },
+        {
+            "id": "9dad0720-e6f0-4296-bf0d-1a327dfc7a06",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "max_speed",
+            "varType": 0
+        },
+        {
+            "id": "4d5ab187-a3b7-4bb4-89bb-9f3059d407e7",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.1",
+            "varName": "acceleration",
+            "varType": 0
+        }
+    ],
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
+}
