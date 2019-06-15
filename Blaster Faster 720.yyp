@@ -742,6 +742,25 @@
             }
         },
         {
+            "Key": "8cdcbff0-a255-4abd-b7d6-7c42d0db551b",
+            "Value": {
+                "id": "e185f3fd-5a29-4531-b77e-d2fcef5f4a50",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/hit_enemy\/hit_enemy.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "93e75ccb-3b8f-47d6-9554-397df88b8d71",
             "Value": {
                 "id": "5e722421-bb21-4d45-abc8-6c37c53ecad9",
@@ -853,6 +872,25 @@
                 ],
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b44f7b08-fb72-4331-9def-8f6ee19b8977",
+            "Value": {
+                "id": "746c5d27-7c1b-4cef-97d8-a2da5dbc7d9d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/f_one\/f_one.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -1129,7 +1167,8 @@
         "7c64f86b-d334-493c-a477-f8d987e8819a",
         "5391bb45-476c-4759-8122-730bad7ea69b",
         "05581159-08b6-47af-8b8d-0b3b959c5bbb",
-        "c2fa9ac2-50f3-4e0a-8b9b-eff559c2736b"
+        "c2fa9ac2-50f3-4e0a-8b9b-eff559c2736b",
+        "8cdcbff0-a255-4abd-b7d6-7c42d0db551b"
     ],
     "tutorial": ""
 }

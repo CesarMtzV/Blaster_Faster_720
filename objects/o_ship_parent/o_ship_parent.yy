@@ -53,6 +53,20 @@
     "physicsStartAwake": true,
     "properties": [
         {
+            "id": "7f9a37bc-e40a-4473-9a64-26cfa6e343a4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "max_armor",
+            "varType": 1
+        },
+        {
             "id": "70ff1245-72af-4ae5-bc81-9c8f8a7308b1",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
