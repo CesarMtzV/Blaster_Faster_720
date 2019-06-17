@@ -229,6 +229,25 @@
             }
         },
         {
+            "Key": "1f31f695-a019-4bc7-bd1a-1a94d623133b",
+            "Value": {
+                "id": "421dedb9-6074-468b-a889-5f7611bb4181",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_timer\/o_timer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "213271c4-4922-4303-a69a-fad15fd12473",
             "Value": {
                 "id": "a6905e92-94fc-4b0e-86cb-e435280e5f4b",
