@@ -2,7 +2,7 @@
     "id": "1f31f695-a019-4bc7-bd1a-1a94d623133b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_timer",
+    "name": "o_death_timer",
     "eventList": [
         {
             "id": "bfe10fde-6150-4a04-a018-369b121cfe6b",

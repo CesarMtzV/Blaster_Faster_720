@@ -243,7 +243,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/o_timer\/o_timer.yy",
+                "resourcePath": "objects\/o_death_timer\/o_death_timer.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -815,6 +815,25 @@
                 ],
                 "resourcePath": "sounds\/a_powerup\/a_powerup.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "8a594d47-395a-479d-9dd5-c7cc8c34e67a",
+            "Value": {
+                "id": "9d81d6fe-0e32-48b9-8cc1-e3068e410bb5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_screen_shake\/o_screen_shake.yy",
+                "resourceType": "GMObject"
             }
         },
         {
